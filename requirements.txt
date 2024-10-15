@@ -7,3 +7,5 @@ schedule==1.2.0
 python-dotenv
 transformers 
 torch
+tabluate
+pywin32
